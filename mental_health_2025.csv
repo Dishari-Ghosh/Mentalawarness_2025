@@ -1,0 +1,201 @@
+ID,Age,Gender,Region,Profession,Anxiety_Level,Depression_Level,Sleep_Hours,Burnout_Level,Aware_of_Therapy,Used_Therapy
+1,58,Male,West Bengal,Engineer,4,4,6.7,3,Yes,Yes
+2,52,Male,Rajasthan,Business,1,1,5.8,2,Yes,No
+3,56,Male,Kerala,Doctor,9,7,7.0,4,No,No
+4,55,Female,West Bengal,Teacher,7,6,8.3,5,Yes,No
+5,39,Male,Maharashtra,Business,2,6,5.6,6,No,No
+6,20,Other,Bihar,IT Professional,7,2,5.6,9,No,No
+7,58,Other,Uttar Pradesh,Doctor,2,1,8.4,4,No,No
+8,23,Male,Maharashtra,Business,5,8,7.2,6,Yes,No
+9,31,Other,Karnataka,IT Professional,10,3,5.3,9,Yes,No
+10,42,Female,Kerala,Doctor,6,1,6.8,4,Yes,Yes
+11,43,Female,Maharashtra,Doctor,10,6,5.3,4,No,No
+12,43,Other,Bihar,Teacher,5,3,5.3,4,No,No
+13,55,Female,Rajasthan,Business,6,4,6.4,3,No,No
+14,23,Male,Maharashtra,Teacher,3,7,3.1,10,Yes,No
+15,56,Female,Kerala,Engineer,9,1,3.4,2,No,No
+16,59,Female,Maharashtra,Engineer,7,3,5.2,8,Yes,Yes
+17,34,Other,Delhi,IT Professional,5,9,4.5,10,Yes,No
+18,28,Other,Kerala,Student,10,6,6.5,8,Yes,No
+19,41,Female,Tamil Nadu,Student,4,10,4.6,2,Yes,Yes
+20,22,Other,Delhi,Teacher,8,9,3.9,3,No,No
+21,51,Other,Gujarat,Doctor,9,4,8.2,5,No,No
+22,60,Other,Uttar Pradesh,Govt Employee,9,8,5.7,2,Yes,No
+23,39,Male,Rajasthan,Doctor,10,4,6.1,1,Yes,Yes
+24,21,Male,Maharashtra,Student,6,2,3.9,9,Yes,No
+25,49,Male,Kerala,Teacher,10,10,5.2,8,Yes,Yes
+26,44,Male,Maharashtra,IT Professional,7,6,6.2,7,No,No
+27,47,Other,West Bengal,IT Professional,1,7,4.3,6,Yes,No
+28,30,Other,Bihar,Teacher,7,3,6.6,5,No,No
+29,33,Male,Bihar,IT Professional,1,9,5.1,1,Yes,Yes
+30,33,Male,Gujarat,Govt Employee,8,4,5.6,7,Yes,No
+31,18,Female,Karnataka,Govt Employee,5,7,5.1,9,No,No
+32,27,Male,Karnataka,Doctor,1,10,8.8,9,Yes,Yes
+33,21,Male,Rajasthan,Govt Employee,9,9,6.0,3,Yes,Yes
+34,23,Male,Maharashtra,IT Professional,4,7,4.4,2,Yes,Yes
+35,20,Other,Maharashtra,Business,10,10,7.2,9,No,No
+36,34,Male,Uttar Pradesh,Doctor,5,7,4.2,3,No,No
+37,47,Female,Maharashtra,Student,8,10,6.3,10,Yes,No
+38,31,Other,Karnataka,Teacher,6,2,3.1,4,No,No
+39,36,Male,Bihar,Engineer,10,9,4.0,1,No,No
+40,60,Male,Delhi,Engineer,2,2,6.3,9,Yes,No
+41,56,Male,Uttar Pradesh,Doctor,5,9,7.1,8,No,No
+42,21,Male,Gujarat,Engineer,1,1,6.3,6,Yes,Yes
+43,34,Male,Bihar,Business,9,1,5.8,2,Yes,Yes
+44,27,Other,West Bengal,Homemaker,10,9,5.5,3,No,No
+45,26,Male,Karnataka,Homemaker,1,6,3.8,4,Yes,Yes
+46,40,Other,Gujarat,Teacher,4,3,4.9,3,No,No
+47,19,Male,Uttar Pradesh,Business,4,5,5.3,3,Yes,No
+48,20,Female,Tamil Nadu,Doctor,8,6,7.6,5,Yes,No
+49,60,Male,Gujarat,Homemaker,5,2,6.5,5,No,No
+50,59,Other,Gujarat,Homemaker,1,2,3.4,5,Yes,Yes
+51,34,Male,Maharashtra,Business,6,6,6.5,7,Yes,No
+52,54,Male,Karnataka,Student,7,1,5.4,9,Yes,No
+53,22,Other,Uttar Pradesh,Homemaker,2,5,5.0,9,No,No
+54,60,Female,Uttar Pradesh,Business,5,9,6.9,3,Yes,No
+55,42,Other,Delhi,Engineer,7,9,7.5,1,No,No
+56,36,Male,Gujarat,Homemaker,8,8,7.4,8,Yes,Yes
+57,28,Other,Maharashtra,Engineer,9,10,4.7,6,Yes,Yes
+58,33,Other,Karnataka,Doctor,4,3,5.5,1,Yes,No
+59,48,Other,Maharashtra,Govt Employee,7,10,6.5,4,No,No
+60,49,Female,Tamil Nadu,Teacher,1,2,7.5,7,Yes,No
+61,51,Female,West Bengal,Doctor,2,8,5.3,3,No,No
+62,60,Other,Kerala,Homemaker,8,10,5.7,9,No,No
+63,53,Female,Delhi,Govt Employee,8,5,4.3,4,No,No
+64,51,Female,Tamil Nadu,Engineer,8,2,4.2,5,Yes,No
+65,38,Other,Maharashtra,Teacher,3,4,7.2,7,Yes,Yes
+66,22,Female,Gujarat,Homemaker,9,8,8.0,7,Yes,No
+67,44,Female,Rajasthan,Student,10,7,5.9,8,Yes,Yes
+68,37,Female,Gujarat,Doctor,8,4,7.5,5,No,No
+69,49,Male,Gujarat,Homemaker,7,3,6.5,8,Yes,Yes
+70,52,Male,Gujarat,Student,2,7,5.0,3,No,No
+71,29,Male,Karnataka,Business,6,4,6.5,8,No,No
+72,39,Female,Karnataka,Business,5,2,8.3,8,Yes,Yes
+73,21,Female,Tamil Nadu,IT Professional,1,1,5.9,4,Yes,Yes
+74,57,Male,Tamil Nadu,Teacher,8,2,8.3,10,Yes,No
+75,34,Female,Delhi,IT Professional,3,5,2.1,2,Yes,Yes
+76,54,Other,Gujarat,Business,4,2,7.2,10,Yes,No
+77,37,Other,Rajasthan,IT Professional,10,1,6.1,6,No,No
+78,60,Female,Maharashtra,Homemaker,1,7,5.6,8,Yes,No
+79,41,Other,Bihar,Teacher,7,3,6.1,9,No,No
+80,57,Other,Bihar,Govt Employee,7,10,3.0,5,No,No
+81,33,Male,Karnataka,Govt Employee,4,8,5.7,10,No,No
+82,39,Male,Bihar,Homemaker,3,8,6.5,4,No,No
+83,34,Female,Karnataka,Engineer,9,1,8.2,9,Yes,No
+84,44,Female,Kerala,Doctor,8,8,5.2,8,Yes,No
+85,32,Female,Tamil Nadu,Engineer,10,6,4.8,8,No,No
+86,45,Other,Kerala,Homemaker,6,8,5.2,5,No,No
+87,34,Male,Maharashtra,Doctor,6,2,7.4,9,Yes,No
+88,48,Female,Rajasthan,Engineer,2,4,6.5,5,Yes,No
+89,37,Male,Kerala,Teacher,5,1,5.2,1,No,No
+90,26,Other,Bihar,IT Professional,1,10,6.8,5,No,No
+91,48,Female,Uttar Pradesh,Teacher,1,5,6.1,8,Yes,Yes
+92,43,Female,Maharashtra,Student,3,3,7.5,10,No,No
+93,23,Male,Maharashtra,Business,10,10,4.9,10,Yes,Yes
+94,42,Female,Bihar,Engineer,10,7,5.5,5,Yes,Yes
+95,24,Male,Tamil Nadu,Engineer,2,3,5.4,4,Yes,Yes
+96,28,Male,Gujarat,Govt Employee,10,8,3.8,5,Yes,No
+97,36,Other,Bihar,IT Professional,4,5,6.4,10,Yes,No
+98,52,Male,Delhi,Engineer,3,2,6.4,1,Yes,Yes
+99,56,Other,Rajasthan,Engineer,8,2,6.0,8,No,No
+100,43,Female,Kerala,Govt Employee,8,2,5.6,10,Yes,Yes
+101,38,Other,Karnataka,Student,2,4,3.9,10,Yes,Yes
+102,35,Other,West Bengal,Teacher,8,9,5.4,8,No,No
+103,29,Other,Gujarat,Govt Employee,2,8,5.5,6,No,No
+104,39,Female,Maharashtra,Teacher,6,7,4.8,8,No,No
+105,60,Female,Kerala,Student,8,2,5.8,6,No,No
+106,38,Male,Gujarat,Student,9,8,6.6,7,Yes,No
+107,41,Other,Bihar,Govt Employee,1,4,8.8,5,Yes,Yes
+108,46,Other,Bihar,IT Professional,1,10,6.3,4,Yes,No
+109,18,Other,Gujarat,IT Professional,4,2,6.4,8,Yes,Yes
+110,27,Female,Karnataka,Engineer,7,8,5.9,8,Yes,No
+111,27,Female,Tamil Nadu,Teacher,2,5,3.1,7,No,No
+112,50,Female,West Bengal,Engineer,5,10,6.0,10,No,No
+113,27,Female,Kerala,Govt Employee,6,6,6.1,9,No,No
+114,47,Female,Tamil Nadu,Doctor,10,7,9.7,4,No,No
+115,20,Female,Bihar,Business,7,3,5.7,8,Yes,No
+116,55,Female,Maharashtra,Govt Employee,2,9,6.5,8,Yes,Yes
+117,44,Other,Delhi,IT Professional,8,5,5.9,6,No,No
+118,59,Male,Uttar Pradesh,Business,6,8,4.2,9,Yes,Yes
+119,33,Other,Karnataka,Doctor,2,7,7.7,2,Yes,No
+120,37,Male,West Bengal,Homemaker,1,5,7.1,6,No,No
+121,45,Male,Tamil Nadu,Business,10,3,7.2,3,Yes,No
+122,42,Other,Tamil Nadu,Govt Employee,10,3,4.6,4,No,No
+123,58,Female,Bihar,Engineer,1,8,8.1,5,Yes,No
+124,40,Other,Karnataka,Business,5,8,3.9,5,Yes,Yes
+125,48,Male,Tamil Nadu,Business,10,6,6.9,10,No,No
+126,36,Male,Gujarat,Engineer,1,10,9.3,1,No,No
+127,36,Male,Rajasthan,Homemaker,4,4,4.5,10,No,No
+128,60,Other,Delhi,IT Professional,1,5,5.2,8,Yes,Yes
+129,26,Male,Karnataka,Homemaker,7,3,6.1,4,Yes,Yes
+130,41,Other,Kerala,Engineer,3,5,5.2,8,No,No
+131,39,Male,Bihar,IT Professional,3,4,3.7,7,No,No
+132,23,Female,West Bengal,Engineer,9,2,6.1,8,No,No
+133,34,Other,Gujarat,Homemaker,2,4,4.4,8,Yes,Yes
+134,53,Female,Rajasthan,Doctor,2,8,6.7,5,No,No
+135,25,Male,West Bengal,Student,5,8,4.6,2,Yes,No
+136,52,Male,Gujarat,Govt Employee,6,9,8.3,7,Yes,Yes
+137,59,Male,Bihar,Business,5,1,4.8,6,Yes,No
+138,33,Female,Maharashtra,Homemaker,9,6,5.5,1,No,No
+139,35,Male,Maharashtra,Govt Employee,2,4,7.2,10,Yes,No
+140,39,Male,Delhi,Doctor,2,9,4.2,4,Yes,Yes
+141,32,Female,Delhi,Student,5,3,6.3,3,No,No
+142,29,Male,West Bengal,Teacher,1,6,8.0,4,No,No
+143,19,Male,Karnataka,Student,3,7,3.6,9,Yes,Yes
+144,48,Female,Uttar Pradesh,IT Professional,8,9,6.3,4,Yes,Yes
+145,60,Other,Karnataka,Govt Employee,1,1,6.4,8,No,No
+146,45,Other,Maharashtra,Govt Employee,8,2,7.2,2,No,No
+147,56,Male,Maharashtra,Teacher,5,10,4.1,10,No,No
+148,42,Other,Kerala,Engineer,8,9,4.0,10,No,No
+149,24,Other,Maharashtra,Doctor,7,8,6.8,4,No,No
+150,39,Female,Gujarat,Business,2,6,6.4,7,No,No
+151,60,Female,Uttar Pradesh,Teacher,8,2,6.4,2,Yes,No
+152,24,Other,Uttar Pradesh,Teacher,9,1,6.5,10,No,No
+153,60,Male,Gujarat,Homemaker,7,1,5.0,5,No,No
+154,40,Male,Rajasthan,Doctor,3,8,6.3,4,Yes,No
+155,53,Female,Maharashtra,Engineer,10,4,6.4,7,Yes,Yes
+156,60,Other,Karnataka,Student,3,5,4.9,5,No,No
+157,40,Male,Delhi,Teacher,10,7,8.8,2,Yes,Yes
+158,19,Male,Kerala,Doctor,7,7,6.7,8,No,No
+159,28,Female,Karnataka,Homemaker,10,10,4.2,2,Yes,No
+160,57,Male,Maharashtra,Engineer,8,7,7.0,8,No,No
+161,44,Female,Tamil Nadu,IT Professional,6,7,4.5,2,No,No
+162,55,Female,Kerala,Engineer,1,4,7.2,7,Yes,No
+163,37,Male,Delhi,Engineer,5,6,7.7,2,Yes,No
+164,45,Male,Delhi,Business,9,4,4.8,9,No,No
+165,22,Female,West Bengal,Business,1,8,7.4,2,No,No
+166,54,Female,Rajasthan,Business,7,5,6.6,2,No,No
+167,19,Female,Delhi,Govt Employee,6,2,7.2,7,Yes,No
+168,55,Female,Kerala,IT Professional,7,5,8.8,6,Yes,No
+169,28,Male,Kerala,IT Professional,9,9,5.6,4,No,No
+170,40,Other,Delhi,Doctor,2,3,4.9,5,Yes,No
+171,27,Other,Maharashtra,Teacher,8,8,4.7,10,No,No
+172,54,Other,Rajasthan,Homemaker,6,3,4.8,8,Yes,No
+173,58,Female,Karnataka,Student,6,9,5.9,2,No,No
+174,47,Female,West Bengal,Student,6,5,6.5,2,Yes,Yes
+175,50,Female,Bihar,Student,8,10,6.4,4,No,No
+176,56,Female,Kerala,Teacher,1,8,7.2,2,No,No
+177,23,Other,Delhi,Student,4,8,6.0,8,Yes,No
+178,36,Female,Gujarat,Homemaker,10,1,8.2,6,Yes,No
+179,53,Other,Gujarat,Engineer,5,10,5.6,3,No,No
+180,23,Other,Delhi,Homemaker,5,7,10.1,3,Yes,No
+181,42,Other,Uttar Pradesh,Teacher,9,2,6.9,7,No,No
+182,19,Female,Karnataka,Teacher,4,6,4.7,8,Yes,No
+183,26,Male,Maharashtra,Engineer,2,9,4.4,9,Yes,Yes
+184,57,Male,Rajasthan,Business,3,3,6.7,3,Yes,Yes
+185,20,Female,Uttar Pradesh,Doctor,8,10,5.7,5,No,No
+186,32,Other,Tamil Nadu,Engineer,8,4,7.1,6,No,No
+187,47,Female,Gujarat,Business,3,4,6.7,10,Yes,Yes
+188,21,Other,Bihar,Homemaker,9,2,5.9,9,Yes,No
+189,28,Female,Bihar,Teacher,7,2,4.7,4,No,No
+190,40,Male,Gujarat,Student,7,9,3.7,6,Yes,No
+191,23,Female,Tamil Nadu,Student,6,2,5.3,6,Yes,No
+192,36,Female,Delhi,Govt Employee,8,10,7.3,1,Yes,No
+193,31,Male,Kerala,Business,2,5,6.3,4,No,No
+194,25,Male,Tamil Nadu,Business,10,8,4.1,2,Yes,Yes
+195,49,Other,Kerala,Student,9,10,6.3,4,Yes,No
+196,18,Other,Uttar Pradesh,Doctor,10,7,6.6,3,Yes,Yes
+197,41,Male,Kerala,Student,7,8,4.7,1,No,No
+198,41,Female,West Bengal,Homemaker,2,6,6.2,4,Yes,Yes
+199,39,Male,West Bengal,Homemaker,9,6,6.1,3,No,No
+200,48,Other,Delhi,Teacher,2,8,4.3,1,No,No

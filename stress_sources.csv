@@ -1,0 +1,601 @@
+ID,Stress_Source,Impact_Level
+1,Workload,5
+1,Study Pressure,7
+2,Financial Issues,8
+2,Relationship,7
+2,Health Concerns,5
+3,Study Pressure,10
+3,Family Issues,7
+3,Social Media,7
+3,Workload,5
+4,Relationship,8
+4,Health Concerns,7
+4,Social Media,6
+5,Social Media,9
+5,Relationship,7
+5,Family Issues,5
+6,Relationship,9
+6,Workload,7
+6,Health Concerns,7
+6,Study Pressure,5
+7,Family Issues,7
+7,Social Media,7
+8,Financial Issues,6
+8,Social Media,10
+8,Relationship,8
+9,Relationship,9
+9,Workload,8
+9,Family Issues,7
+10,Health Concerns,7
+10,Workload,9
+10,Social Media,10
+10,Relationship,10
+11,Workload,9
+11,Study Pressure,10
+12,Workload,6
+12,Study Pressure,10
+12,Health Concerns,7
+13,Relationship,9
+13,Financial Issues,6
+13,Workload,10
+14,Family Issues,5
+14,Health Concerns,9
+14,Relationship,6
+15,Family Issues,6
+15,Relationship,5
+15,Health Concerns,5
+15,Financial Issues,10
+16,Relationship,8
+16,Financial Issues,9
+17,Family Issues,10
+17,Health Concerns,8
+18,Financial Issues,10
+18,Family Issues,8
+19,Workload,5
+19,Study Pressure,8
+20,Social Media,5
+20,Relationship,10
+21,Social Media,9
+21,Family Issues,9
+21,Workload,7
+22,Health Concerns,7
+22,Study Pressure,9
+22,Social Media,6
+23,Study Pressure,6
+23,Health Concerns,8
+24,Family Issues,9
+24,Financial Issues,7
+25,Health Concerns,9
+25,Financial Issues,5
+25,Study Pressure,5
+26,Relationship,9
+26,Social Media,8
+26,Health Concerns,8
+27,Workload,8
+27,Study Pressure,8
+27,Family Issues,10
+27,Health Concerns,9
+28,Study Pressure,6
+28,Financial Issues,6
+28,Social Media,8
+29,Health Concerns,7
+29,Workload,6
+29,Social Media,6
+29,Study Pressure,7
+30,Study Pressure,5
+30,Family Issues,7
+30,Financial Issues,6
+30,Social Media,10
+31,Family Issues,9
+31,Study Pressure,10
+31,Health Concerns,6
+31,Workload,9
+32,Study Pressure,9
+32,Health Concerns,5
+32,Financial Issues,5
+32,Family Issues,5
+33,Social Media,7
+33,Financial Issues,10
+34,Health Concerns,8
+34,Financial Issues,9
+35,Workload,10
+35,Relationship,7
+35,Financial Issues,8
+35,Family Issues,6
+36,Relationship,10
+36,Family Issues,5
+36,Health Concerns,6
+36,Workload,8
+37,Relationship,7
+37,Health Concerns,9
+37,Study Pressure,6
+38,Health Concerns,10
+38,Social Media,7
+38,Family Issues,8
+39,Health Concerns,9
+39,Family Issues,9
+40,Family Issues,8
+40,Study Pressure,5
+41,Relationship,5
+41,Study Pressure,5
+41,Social Media,7
+42,Health Concerns,6
+42,Financial Issues,6
+42,Relationship,7
+43,Social Media,8
+43,Family Issues,9
+43,Study Pressure,8
+43,Financial Issues,8
+44,Relationship,8
+44,Workload,9
+44,Social Media,8
+45,Study Pressure,7
+45,Financial Issues,5
+46,Family Issues,9
+46,Relationship,10
+47,Relationship,5
+47,Family Issues,8
+47,Financial Issues,6
+47,Workload,7
+48,Family Issues,8
+48,Relationship,5
+48,Health Concerns,9
+48,Workload,9
+49,Family Issues,7
+49,Financial Issues,5
+50,Financial Issues,7
+50,Relationship,9
+50,Health Concerns,10
+51,Workload,7
+51,Study Pressure,7
+51,Health Concerns,9
+51,Relationship,7
+52,Study Pressure,9
+52,Financial Issues,8
+53,Workload,10
+53,Health Concerns,7
+53,Social Media,8
+53,Study Pressure,9
+54,Study Pressure,6
+54,Financial Issues,7
+54,Social Media,9
+55,Study Pressure,10
+55,Relationship,7
+55,Financial Issues,9
+56,Financial Issues,8
+56,Health Concerns,10
+56,Social Media,9
+57,Relationship,7
+57,Workload,10
+57,Family Issues,5
+58,Financial Issues,9
+58,Family Issues,8
+58,Workload,7
+59,Health Concerns,10
+59,Financial Issues,5
+59,Social Media,9
+59,Study Pressure,8
+60,Financial Issues,10
+60,Social Media,9
+61,Study Pressure,5
+61,Social Media,9
+61,Health Concerns,10
+62,Study Pressure,8
+62,Workload,7
+63,Study Pressure,8
+63,Relationship,9
+63,Health Concerns,9
+64,Health Concerns,10
+64,Social Media,6
+64,Workload,9
+65,Financial Issues,10
+65,Family Issues,8
+66,Relationship,9
+66,Family Issues,7
+66,Study Pressure,9
+66,Health Concerns,7
+67,Health Concerns,6
+67,Social Media,6
+67,Family Issues,7
+67,Relationship,9
+68,Study Pressure,10
+68,Family Issues,6
+68,Social Media,10
+69,Relationship,9
+69,Family Issues,10
+69,Health Concerns,7
+69,Social Media,7
+70,Financial Issues,9
+70,Social Media,8
+71,Health Concerns,7
+71,Family Issues,5
+71,Study Pressure,7
+72,Workload,10
+72,Family Issues,8
+72,Relationship,6
+72,Social Media,6
+73,Family Issues,5
+73,Financial Issues,9
+73,Health Concerns,10
+73,Study Pressure,9
+74,Study Pressure,10
+74,Workload,9
+75,Social Media,5
+75,Study Pressure,5
+76,Family Issues,5
+76,Social Media,10
+76,Relationship,6
+77,Financial Issues,8
+77,Study Pressure,10
+78,Relationship,7
+78,Social Media,7
+78,Study Pressure,7
+79,Workload,9
+79,Health Concerns,10
+79,Financial Issues,10
+79,Study Pressure,5
+80,Relationship,5
+80,Study Pressure,8
+81,Study Pressure,5
+81,Social Media,5
+81,Family Issues,7
+82,Financial Issues,8
+82,Workload,10
+82,Family Issues,9
+82,Health Concerns,9
+83,Study Pressure,7
+83,Financial Issues,6
+83,Relationship,5
+84,Study Pressure,10
+84,Social Media,7
+84,Relationship,10
+85,Workload,7
+85,Social Media,7
+86,Social Media,8
+86,Study Pressure,9
+86,Health Concerns,7
+86,Relationship,5
+87,Social Media,6
+87,Workload,8
+87,Study Pressure,7
+88,Workload,8
+88,Family Issues,6
+89,Health Concerns,7
+89,Family Issues,9
+89,Social Media,10
+90,Workload,5
+90,Family Issues,10
+90,Social Media,5
+90,Study Pressure,8
+91,Study Pressure,10
+91,Relationship,7
+91,Financial Issues,10
+92,Social Media,7
+92,Family Issues,9
+93,Study Pressure,8
+93,Health Concerns,6
+94,Social Media,8
+94,Financial Issues,10
+94,Family Issues,9
+95,Health Concerns,6
+95,Financial Issues,10
+95,Study Pressure,9
+96,Financial Issues,9
+96,Relationship,10
+97,Workload,5
+97,Financial Issues,9
+97,Health Concerns,9
+98,Financial Issues,6
+98,Health Concerns,6
+99,Health Concerns,5
+99,Financial Issues,10
+99,Relationship,6
+100,Financial Issues,5
+100,Relationship,8
+100,Workload,6
+100,Social Media,9
+101,Relationship,9
+101,Financial Issues,8
+101,Workload,10
+102,Social Media,7
+102,Workload,5
+102,Relationship,10
+103,Financial Issues,5
+103,Workload,8
+104,Social Media,5
+104,Workload,5
+104,Financial Issues,8
+105,Family Issues,6
+105,Relationship,6
+106,Social Media,8
+106,Health Concerns,8
+106,Relationship,8
+106,Family Issues,8
+107,Social Media,9
+107,Health Concerns,6
+108,Health Concerns,9
+108,Family Issues,8
+108,Workload,9
+108,Study Pressure,6
+109,Study Pressure,8
+109,Workload,10
+109,Social Media,10
+109,Family Issues,9
+110,Financial Issues,6
+110,Relationship,8
+110,Study Pressure,7
+111,Family Issues,10
+111,Study Pressure,5
+112,Health Concerns,8
+112,Social Media,9
+113,Study Pressure,5
+113,Health Concerns,5
+114,Workload,6
+114,Relationship,10
+114,Financial Issues,5
+114,Health Concerns,8
+115,Study Pressure,5
+115,Financial Issues,6
+115,Health Concerns,9
+116,Study Pressure,7
+116,Social Media,9
+116,Financial Issues,9
+117,Health Concerns,6
+117,Family Issues,10
+117,Study Pressure,9
+117,Social Media,6
+118,Family Issues,9
+118,Health Concerns,9
+118,Workload,10
+119,Social Media,8
+119,Health Concerns,9
+120,Workload,9
+120,Family Issues,7
+120,Relationship,10
+121,Relationship,8
+121,Study Pressure,6
+121,Family Issues,9
+122,Study Pressure,10
+122,Health Concerns,6
+122,Family Issues,8
+123,Financial Issues,8
+123,Relationship,9
+124,Study Pressure,6
+124,Relationship,7
+124,Health Concerns,10
+124,Family Issues,5
+125,Health Concerns,9
+125,Family Issues,10
+125,Workload,6
+126,Family Issues,10
+126,Relationship,9
+127,Workload,8
+127,Health Concerns,6
+127,Study Pressure,7
+127,Financial Issues,7
+128,Study Pressure,10
+128,Health Concerns,5
+129,Health Concerns,8
+129,Relationship,6
+129,Study Pressure,9
+129,Financial Issues,7
+130,Relationship,10
+130,Health Concerns,7
+130,Financial Issues,7
+131,Family Issues,8
+131,Financial Issues,5
+131,Relationship,10
+132,Health Concerns,7
+132,Family Issues,7
+132,Study Pressure,8
+133,Financial Issues,10
+133,Study Pressure,6
+134,Family Issues,9
+134,Financial Issues,9
+135,Relationship,7
+135,Family Issues,6
+135,Study Pressure,8
+135,Financial Issues,9
+136,Relationship,10
+136,Financial Issues,10
+137,Family Issues,8
+137,Relationship,6
+137,Social Media,10
+138,Study Pressure,8
+138,Health Concerns,6
+138,Financial Issues,9
+139,Workload,10
+139,Financial Issues,5
+139,Health Concerns,5
+139,Social Media,8
+140,Health Concerns,6
+140,Social Media,5
+141,Study Pressure,7
+141,Workload,5
+141,Health Concerns,9
+141,Relationship,10
+142,Financial Issues,5
+142,Relationship,9
+142,Social Media,9
+142,Workload,8
+143,Workload,10
+143,Financial Issues,7
+144,Family Issues,6
+144,Workload,5
+144,Financial Issues,5
+144,Relationship,9
+145,Study Pressure,9
+145,Health Concerns,9
+146,Health Concerns,8
+146,Family Issues,5
+146,Social Media,7
+147,Relationship,10
+147,Financial Issues,6
+147,Study Pressure,7
+148,Health Concerns,8
+148,Workload,8
+148,Social Media,8
+148,Financial Issues,9
+149,Workload,10
+149,Social Media,6
+149,Health Concerns,5
+150,Health Concerns,9
+150,Relationship,5
+150,Family Issues,9
+151,Study Pressure,10
+151,Health Concerns,9
+152,Family Issues,10
+152,Workload,7
+152,Social Media,9
+153,Social Media,5
+153,Workload,6
+153,Study Pressure,9
+153,Family Issues,6
+154,Health Concerns,6
+154,Relationship,9
+154,Workload,6
+154,Family Issues,9
+155,Social Media,8
+155,Financial Issues,10
+155,Family Issues,6
+156,Social Media,5
+156,Workload,5
+156,Financial Issues,8
+156,Family Issues,6
+157,Family Issues,9
+157,Financial Issues,9
+158,Health Concerns,10
+158,Family Issues,7
+158,Workload,8
+159,Study Pressure,8
+159,Family Issues,8
+159,Financial Issues,6
+160,Financial Issues,9
+160,Social Media,7
+160,Relationship,6
+160,Workload,10
+161,Workload,6
+161,Family Issues,8
+162,Health Concerns,7
+162,Social Media,7
+162,Study Pressure,5
+162,Relationship,5
+163,Family Issues,7
+163,Relationship,7
+164,Study Pressure,6
+164,Workload,8
+165,Financial Issues,8
+165,Health Concerns,5
+165,Social Media,5
+166,Family Issues,5
+166,Financial Issues,9
+167,Health Concerns,7
+167,Family Issues,8
+167,Relationship,8
+167,Workload,5
+168,Financial Issues,10
+168,Study Pressure,8
+168,Health Concerns,6
+168,Social Media,6
+169,Family Issues,6
+169,Health Concerns,5
+169,Relationship,6
+170,Family Issues,8
+170,Relationship,5
+170,Health Concerns,7
+171,Study Pressure,9
+171,Social Media,9
+171,Relationship,6
+172,Workload,5
+172,Study Pressure,8
+172,Family Issues,7
+173,Relationship,8
+173,Family Issues,10
+173,Health Concerns,9
+173,Social Media,6
+174,Family Issues,8
+174,Financial Issues,7
+174,Study Pressure,6
+175,Family Issues,9
+175,Health Concerns,6
+175,Relationship,7
+176,Family Issues,5
+176,Relationship,9
+176,Health Concerns,6
+177,Financial Issues,10
+177,Study Pressure,8
+177,Health Concerns,10
+177,Workload,6
+178,Health Concerns,8
+178,Family Issues,10
+178,Workload,8
+179,Social Media,6
+179,Family Issues,7
+180,Study Pressure,5
+180,Social Media,8
+180,Relationship,9
+180,Financial Issues,8
+181,Relationship,9
+181,Financial Issues,5
+181,Social Media,7
+181,Health Concerns,10
+182,Financial Issues,6
+182,Social Media,10
+182,Workload,10
+182,Health Concerns,7
+183,Social Media,5
+183,Financial Issues,9
+184,Social Media,8
+184,Health Concerns,5
+184,Relationship,5
+184,Family Issues,5
+185,Study Pressure,9
+185,Financial Issues,9
+185,Social Media,10
+186,Study Pressure,8
+186,Relationship,10
+186,Family Issues,9
+186,Social Media,10
+187,Study Pressure,5
+187,Family Issues,7
+187,Workload,8
+187,Relationship,5
+188,Health Concerns,6
+188,Social Media,7
+189,Family Issues,9
+189,Relationship,8
+189,Study Pressure,7
+190,Workload,7
+190,Relationship,5
+190,Social Media,7
+191,Health Concerns,5
+191,Social Media,5
+192,Social Media,10
+192,Workload,6
+192,Study Pressure,9
+193,Financial Issues,7
+193,Study Pressure,9
+194,Relationship,10
+194,Study Pressure,6
+194,Health Concerns,6
+195,Social Media,10
+195,Relationship,9
+195,Health Concerns,6
+195,Workload,8
+196,Relationship,6
+196,Health Concerns,7
+196,Workload,10
+196,Study Pressure,5
+197,Workload,7
+197,Financial Issues,6
+197,Study Pressure,8
+197,Family Issues,5
+198,Social Media,10
+198,Relationship,7
+198,Financial Issues,9
+199,Financial Issues,5
+199,Relationship,7
+199,Health Concerns,7
+200,Financial Issues,9
+200,Study Pressure,9
+200,Family Issues,5

@@ -12,3 +12,6 @@ Tools used:
  ✔️ Custom CSV datasets with 200+ entries
 Why this project?
  Because raising awareness isn’t just a social cause — it’s a data-driven opportunity to understand and improve lives.
+
+<h4 align="center" style="color:gold;">✨ Thank You ✨</h4> 
+<h3 align="center" style="color:#e74c3c;">Created By: Dishari Ghosh</h3>
